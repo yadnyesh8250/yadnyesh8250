@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | ReactJS Lover | Digital Creator</h3>
+<h1 align="center">Hi 👋, I'm Yadnyesh Patil</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | ReactJS passionate | Digital Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;UI%2FUX+Enthusiast;Digital+Marketing+Intern;Lifelong+Learner" alt="Typing SVG" />
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&border_radius=20" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh8250&layout=compact&theme=radical&hide_border=true&border_radius=20" height="130"/>
 </p>
 
 ---
@@ -40,13 +40,13 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/yadnyesh-patil-907418340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.yadnyeshpatil8259@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio-yadnyesh8250s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
